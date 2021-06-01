@@ -1,0 +1,45 @@
+body{
+  background-image: url(https://www.wallpapermaiden.com/wallpaper/2271/download/1920x1080/naruto-team-7-sakura-sasuke-hinata.png);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #308A50;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: #3E403F;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #49AB70;
+
+}
+.posts{
+  background-color: #308A50;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 25px;
+  color: #3E403F;
+  margin: 10px 10px;
+}
+.button{
+  background-color: #3E403F;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 10px 25px;
+  color: #FFFFFF;
+  width: 105px;
+}
